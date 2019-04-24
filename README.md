@@ -9,7 +9,6 @@ This is the repo for ECSE211: Design Princple and Methods in Winter 2019 at McGi
 [LEGO Mindstorms EV3](https://www.lego.com/en-us/mindstorms/about-ev3)  
 
 ## Software
-[Java 8](http://www.oracle.com/technetwork/java/javase/downloads/
-jdk8-downloads-2133151.html)  
+[Java 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)  
 [Eclipse Oxygen](https://www.eclipse.org/downloads)  
 [LeJOS0.9.1](https://sourceforge.net/projects/ev3.lejos.p/files/)  
