@@ -12,3 +12,7 @@ This is the repo for ECSE211: Design Princple and Methods in Winter 2019 at McGi
 [Java 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)  
 [Eclipse Oxygen](https://www.eclipse.org/downloads)  
 [LeJOS0.9.1](https://sourceforge.net/projects/ev3.lejos.p/files/)  
+
+## Lab5 and Final Competition  
+See Jake's repo [here](https://github.com/jacob-hochstrasser/DPM-Team4)  
+(We actually succeeded in the final competition!)  
