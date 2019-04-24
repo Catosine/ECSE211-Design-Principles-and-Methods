@@ -1,4 +1,4 @@
-# ECSE211 Design Principle and Methods  
+# ECSE211: Design Principle and Methods  
 This is the repo for ECSE211: Design Princple and Methods in Winter 2019 at McGill University.  
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/Catosine/ECSE211/blob/master/LICENSE)  
 
